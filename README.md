@@ -120,3 +120,9 @@ This project is **fully responsive** and works on desktop and mobile devices.
 
 git clone https://github.com/1213ali/dailymeds-pharmacy.git
 cd dailymeds-pharmacy
+
+## Deployment
+
+The project is hosted live on GitHub Pages:  
+[DailyMeds Pharmacy Live](https://yourusername.github.io/dailymeds-pharmacy)
+
