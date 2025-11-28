@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dailymeds-pharmacy/static/css/main.d6ebd9d3.css",
+    "main.js": "/dailymeds-pharmacy/static/js/main.adae86d2.js",
+    "index.html": "/dailymeds-pharmacy/index.html",
+    "main.d6ebd9d3.css.map": "/dailymeds-pharmacy/static/css/main.d6ebd9d3.css.map",
+    "main.adae86d2.js.map": "/dailymeds-pharmacy/static/js/main.adae86d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ebd9d3.css",
+    "static/js/main.adae86d2.js"
+  ]
+}
