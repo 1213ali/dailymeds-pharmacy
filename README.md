@@ -124,5 +124,5 @@ cd dailymeds-pharmacy
 ## Deployment
 
 The project is hosted live on GitHub Pages:  
-[DailyMeds Pharmacy Live](https://yourusername.github.io/dailymeds-pharmacy)
+[DailyMeds Pharmacy Live](https://1213ali.github.io/dailymeds-pharmacy)
 
