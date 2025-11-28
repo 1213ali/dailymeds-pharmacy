@@ -68,3 +68,55 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# DailyMeds Pharmacy
+
+## Project Description
+**DailyMeds Pharmacy** is a React-based web application for a pharmacy ordering system.  
+It allows users to:
+
+- Browse available medicines in the **DailyMeds Store**
+- View detailed information for each medicine
+- Add items to a **shopping cart**
+- Fill a delivery form including name, phone number, address, and delivery type (urgent or standard)
+- See **Order Summary** with total items, delivery fee, and total price
+- Access **About** and **Location** pages for pharmacy information
+
+This project is **fully responsive** and works on desktop and mobile devices.
+
+---
+
+## Features
+
+- **ReactJS frontend** with routing using `react-router-dom`
+- **Dynamic pages** for medicine details and order summary
+- **Form validation** for user input (phone number formatting, required fields)
+- **Cart functionality**: add, remove, update items
+- **Delivery type calculation**: Standard ($5) or Urgent ($10)
+- **Responsive design** with Bootstrap
+
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.jpeg)
+
+### DailyMeds Store
+![Store Page](./screenshots/Dailymedsstore.jpeg)
+
+### Cart Page
+![Cart Page](./screenshots/cart.jpeg)
+
+### Order Summary
+![Order Summary](./screenshots/ordersummary.jpeg)
+
+### About Page
+![About Page](./screenshots/About.jpeg)
+
+---
+
+## Setup Instructions
+
+git clone https://github.com/1213ali/dailymeds-pharmacy.git
+cd dailymeds-pharmacy
