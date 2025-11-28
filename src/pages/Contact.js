@@ -1,6 +1,6 @@
 export default function Contact() {
     const sectionStyle = {
-        backgroundImage: `url(/images/dailymeds.jpeg)`, // Path relative to public
+      backgroundImage: `url(${process.env.PUBLIC_URL + "/images/dailymeds.jpeg"})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "100vh",
