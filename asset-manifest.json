@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dailymeds-pharmacy/static/css/main.d6ebd9d3.css",
-    "main.js": "/dailymeds-pharmacy/static/js/main.4a378dda.js",
-    "static/media/dailymeds.jpeg": "/dailymeds-pharmacy/static/media/dailymeds.67f4240fe0caec5ec9f8.jpeg",
-    "static/media/panadol.jpeg": "/dailymeds-pharmacy/static/media/panadol.04591753cc8a3d804a27.jpeg",
-    "static/media/Cetirizine.jpeg": "/dailymeds-pharmacy/static/media/Cetirizine.dd3b5bdeff8246df6892.jpeg",
-    "static/media/aspirin.jpeg": "/dailymeds-pharmacy/static/media/aspirin.a8c9193ea26d5eaad55c.jpeg",
-    "index.html": "/dailymeds-pharmacy/index.html",
-    "main.d6ebd9d3.css.map": "/dailymeds-pharmacy/static/css/main.d6ebd9d3.css.map",
-    "main.4a378dda.js.map": "/dailymeds-pharmacy/static/js/main.4a378dda.js.map"
+    "main.css": "./static/css/main.d6ebd9d3.css",
+    "main.js": "./static/js/main.868c6bee.js",
+    "static/media/dailymeds.jpeg": "./static/media/dailymeds.67f4240fe0caec5ec9f8.jpeg",
+    "static/media/panadol.jpeg": "./static/media/panadol.04591753cc8a3d804a27.jpeg",
+    "static/media/Cetirizine.jpeg": "./static/media/Cetirizine.dd3b5bdeff8246df6892.jpeg",
+    "static/media/aspirin.jpeg": "./static/media/aspirin.a8c9193ea26d5eaad55c.jpeg",
+    "index.html": "./index.html",
+    "main.d6ebd9d3.css.map": "./static/css/main.d6ebd9d3.css.map",
+    "main.868c6bee.js.map": "./static/js/main.868c6bee.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ebd9d3.css",
-    "static/js/main.4a378dda.js"
+    "static/js/main.868c6bee.js"
   ]
 }
