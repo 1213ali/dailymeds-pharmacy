@@ -1,6 +1,8 @@
-export default function About() {
+import pharmacyImg from "../images/dailymeds.jpeg";
+
+  export default function About() {
     const sectionStyle = {
-      backgroundImage: `url(${process.env.PUBLIC_URL + "/images/dailymeds.jpeg"})`,
+      backgroundImage: `url(/dailymeds-pharmacy/images/dailymeds.jpeg)`,
       backgroundSize: "cover",
       backgroundPosition: "center",
       minHeight: "100vh",

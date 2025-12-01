@@ -2,7 +2,7 @@
 import pharmacyImg from "../images/dailymeds.jpeg";
 export default function Contact() {
     const sectionStyle = {
-      backgroundImage: `url(${pharmacyImg})`,
+      backgroundImage: `url(/dailymeds-pharmacy/images/dailymeds.jpge)`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "100vh",
