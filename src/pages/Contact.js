@@ -2,7 +2,7 @@
 import pharmacyImg from "../images/dailymeds.jpeg";
 export default function Contact() {
     const sectionStyle = {
-      backgroundImage: 'url(${process.env.PUBLIC_URL + "/images/dailymeds.jpeg"})',
+      backgroundImage: `url(${pharmacyImg})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "100vh",
