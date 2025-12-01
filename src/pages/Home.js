@@ -3,7 +3,7 @@ import pharmacyImg from "../images/dailymeds.jpeg";
 
 const Home = () => {
   const backgroundStyle = {
-    backgroundImage: `url(/dailymeds-pharmacy/images/dailymeds.jpeg)`,
+    backgroundImage: 'url(${process.env.PUBLIC_URL + "/images/dailymeds.jpeg"})',
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
